@@ -1,6 +1,7 @@
 # North Coast Marathon
 
 # Goal for this Project
+The North Coast Marathon is a charity marthon event based in the North-East of England. The goal of the North Coast Marathon website is to appeal to visitors of the site, inform about the event and encourage them to sign up and join.
 
 # Table of Contents
 

@@ -47,7 +47,10 @@ The North Coast Marathon is a charity marthon event based in the North-East of E
 # UX
 
 ## User Goals
-
+* Information easy to find
+* Website is visually appealing
+* Perform tasks easy and quickly
+* Engaged and motivated to sign up
 ## User Stories
 
 ## Site owners Goals

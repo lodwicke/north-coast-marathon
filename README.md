@@ -52,7 +52,11 @@ The North Coast Marathon is a charity marthon event based in the North-East of E
 * Perform tasks easy and quickly
 * Engaged and motivated to sign up
 ## User Stories
-
+* As a user, I want to understand where the marathon is taking place and how to get there.
+* As a user, I want to understand what events are taking place.
+* As a user, I want to be able to easily navigate the website.
+* As a user, I want to be able to easily sign up to a specfic event at the marathon.
+* As a user, I want to be able to find links to the marathon's social media profiles.
 ## Site owners Goals
 
 ### Requirements

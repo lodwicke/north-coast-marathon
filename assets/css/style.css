@@ -1,12 +1,11 @@
-
 /* Google Font - Montserrat */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap');
 
 /* common colors */
 
 body {
-    background-color:#0091ce;
-    color:#fff;
+    background-color: #0091ce;
+    color: #fff;
 }
 
 .section-bg-grey {
@@ -20,5 +19,16 @@ body {
 }
 
 a {
-    color:#fff;
+    color: #fff;
+}
+
+.navbar-toggler {
+    color: #fff ;
+    border-color: #fff ;
+}
+
+/* Navbar */
+
+.navbar {
+    padding:0;
 }

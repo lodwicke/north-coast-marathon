@@ -1,0 +1,16 @@
+
+/* common colors */
+body {
+    background-color:#0091ce;
+    color:#fff;
+}
+
+.section-bg-grey {
+    background-color: #bebec0;
+    color: #000;
+}
+
+.section-bg-white {
+    background-color: #fff;
+    color: #000;
+}

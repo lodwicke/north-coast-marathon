@@ -37,3 +37,12 @@ a {
     font-size: 1.2rem;
     font-weight: 900;
 }
+
+/* Jumbotron */
+
+.jumbotron {
+    background: url(../images/Jumbotron-runners.jpg) no-repeat center;
+    height: 95vh;
+    margin-bottom: 0;
+    background-size: cover;
+}
